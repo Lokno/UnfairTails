@@ -13,9 +13,9 @@ It simply swaps all instances of the text 'heads' with 'tails' and vice versa. S
 
 3.) Start the game and close it again. This will do the first time set up for Bepinex.
 
-4.) Download the mod from Thunderstore (https://thunderstore.io/c/peak/p/Lokno/UnfairTrails/)
+4.) Download the DLL for the mod from the github release page (https://github.com/Lokno/UnfairTails/releases/tag/v0.5.0)
 
-5.) Unzip the zip archive into ...\Unfair Flips\BepInEx\plugins
+5.) Place the DLL into ...\Unfair Flips\BepInEx\plugins
 
 6.) Run the game
 
