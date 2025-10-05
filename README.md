@@ -4,7 +4,7 @@ Mod for the game Unfair Flips that changes the objective from 10 heads in a row 
 
 It simply swaps all instances of the text 'heads' with 'tails' and vice versa. Swaps text back for save data so save shouldn't be impacted (message history).
 
-### Manual Installation
+### Installation
 
 1.) Download BepInEx (https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4)
     Download and compile this mod (Precompiled dll coming soon)
